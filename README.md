@@ -1,4 +1,4 @@
-def nth_root(number, n):
+def nth_root(number, ):
     return number ** (1 / n)
 
 if __name__ == "__main__":
